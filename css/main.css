@@ -1,4 +1,4 @@
-/*===============Propiedades Globales================*/
+
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
@@ -8,7 +8,6 @@ body {
 }
 
 
-/*===================MENU==========================*/
 
  #menu a, button{
      font-size: 18px !important;
@@ -20,13 +19,11 @@ body {
      color:#3f3f3f;
      
  }
-/*===================SLIDER DE IMAGENES==========================*/
 
 .carousel-inner {
     max-height:35rem !important;
 }
 
-/*===================SECCION NUESTRO EQUIPO IMAGEN==========================*/
 
 
 
@@ -36,7 +33,6 @@ body {
 }
 
 
-/*===================SECCION NUESTRO EQUIPO MAPA==========================*/
 #local {
     margin-top:50px;
     background-color: #f3f3f3;
@@ -59,7 +55,7 @@ body {
 }
 
 
-/*===========================SECCION EQUIPO MIAMI==================================*/
+
 #numeros-local{
     margin:0 !important;
     padding:0 !important;
@@ -81,7 +77,6 @@ body {
     margin:0;
 }
 
-/*=========================CONTACTOS BACKGROUND================================*/
 
 #bg-contactos{
     position:relative;
@@ -94,7 +89,7 @@ body {
     position:relative;
 }
 
-/*=========================CONTACTOS FORMULARIO================================*/
+
 
 #contenedor-formulario{
     position:absolute;
@@ -113,7 +108,7 @@ body {
 
 
 
-/*=========================FOOTER================================*/
+
 
 footer {
     background: #1b2a4e;
@@ -129,7 +124,7 @@ footer p{
     color:#f3f3f3;
 }
 
-/*=========================MEDIA QUERIES PANTALLA ANCHA================================*/
+
 
 @media (max-width:1200px){
     #intro, #equipo {
@@ -148,7 +143,7 @@ footer p{
    }
  
 }
-/*=========================MEDIA QUERIES PANTALLA SM================================*/
+
 
 
 @media (max-width:768px) {
@@ -181,7 +176,6 @@ footer p{
 
 
 }
-/*=========================MEDIA QUERIES PANTALLA EXTRA-SM================================*/
 
 @media (max-width: 576px) {
     #servicios-fila-2 {
